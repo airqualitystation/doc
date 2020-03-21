@@ -2,10 +2,10 @@
 
 This project contains the technical documentation of the Air Quality Station 
 
-##Documentation LoRaWAN
+## Documentation LoRaWAN
 This file contains a description of how the Lora protocol works and a tutorial on The Things Networks and Cayenne
 
-###Table of contents
+### Table of contents
 * I. Le protocole LoRaWAN
   * Les différentes classes de communication
   * Bande de fréquence
