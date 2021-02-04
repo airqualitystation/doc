@@ -19,3 +19,9 @@ This file contains a description of how the Lora protocol works and a tutorial o
 * III. The Things Network
 * IV. Cayenne LPP
 * V. Gateway
+
+# Perspectives
+
+Other IAQ sensors
+* [CCS811](https://www.sciosense.com/products/environmental-sensors/ccs811-gas-sensor-solution/)
+* [BME680](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors-bme680/)
